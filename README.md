@@ -24,3 +24,10 @@
 ![tip](https://badgen.net/badge/Mobx/3.1.6/green?icon=Mobx)
 
 [![Node.js](https://img.shields.io/badge/node.js-14.17.0-689f62?style=flat&logo=node.js)](https://nodejs.org/)
+
+![](https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=FFFFFF)
+![](https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=FFFFFF)
+![](https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=FFFFFF)
+![](https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=FFFFFF)
+![](https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=FFFFFF)
+![](https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=FFFFFF)
