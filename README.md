@@ -1,4 +1,40 @@
-# 7-days-a-goal
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+.container {
+  display: flex;
+}
+ 
+.left {
+  flex: 1;
+  background-color: #f9f9f9;
+  padding: 20px;
+  margin: 10px;
+}
+ 
+.right {
+  flex: 1;
+  background-color: #f9f9f9;
+  padding: 20px;
+  margin: 10px;
+}
+</style>
+</head>
+<body>
+ 
+<div class="container">
+  <div class="left">
+    <p>左侧内容</p>
+  </div>
+  <div class="right">
+    <p>右侧内容</p>
+  </div>
+</div>
+ 
+</body>
+</html>
+
 ![GitHub账户信息统计](https://github-stats.ubrong.com/api?username=7-days-a-goal&show_icons=true&theme=tokyonight)
 
 ![GitHub账户最常用语言](https://github-stats.ubrong.com/api/top-langs/?username=7-days-a-goal&layout=compact&theme=tokyonight)
