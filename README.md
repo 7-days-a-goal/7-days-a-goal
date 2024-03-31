@@ -5,6 +5,4 @@
 
 ![GitHub仓库信息卡片](https://github-stats.ubrong.com/api/pin/?username=7-days-a-goal&repo=tst-design&theme=dark)
 
-![GitHub仓库信息卡片](https://github-stats.ubrong.com/api/pin/?username=7-days-a-goal&repo=nfn-mini&theme=dark)
-
 ![GitHub仓库信息卡片](https://github-stats.ubrong.com/api/pin/?username=7-days-a-goal&repo=nextjs-dashboard&theme=dark)
