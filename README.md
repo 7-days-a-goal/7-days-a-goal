@@ -1,39 +1,17 @@
-<!DOCTYPE html>
-<html>
-<head>
-<style>
-.container {
-  display: flex;
-}
- 
-.left {
-  flex: 1;
-  background-color: #f9f9f9;
-  padding: 20px;
-  margin: 10px;
-}
- 
-.right {
-  flex: 1;
-  background-color: #f9f9f9;
-  padding: 20px;
-  margin: 10px;
-}
-</style>
-</head>
-<body>
- 
-<div class="container">
-  <div class="left">
-    <p>左侧内容</p>
-  </div>
-  <div class="right">
-    <p>右侧内容</p>
-  </div>
+
+<div>
+<div style="float: left; width: 200px; background-color: #f3f4f6; padding: 10px;">
+**左侧内容**
+- 列表项
+- 列表项
+- 列表项
 </div>
  
-</body>
-</html>
+<div style="margin-left: 220px; padding: 10px;">
+**右侧内容**
+这里是右侧内容的描述文本。
+</div>
+</div>
 
 ![GitHub账户信息统计](https://github-stats.ubrong.com/api?username=7-days-a-goal&show_icons=true&theme=tokyonight)
 
