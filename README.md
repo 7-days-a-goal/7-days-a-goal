@@ -1,19 +1,6 @@
 
-<div>
-<div style="float: left; width: 200px; background-color: #f3f4f6; padding: 10px;">
-**左侧内容**
-- 列表项
-- 列表项
-- 列表项
-</div>
- 
-<div style="margin-left: 220px; padding: 10px;">
-**右侧内容**
-这里是右侧内容的描述文本。
-</div>
-</div>
 
-![GitHub账户信息统计](https://github-stats.ubrong.com/api?username=7-days-a-goal&show_icons=true&theme=tokyonight)
+![GitHub账户信息统计](https://github-stats.ubrong.com/api?username=7-days-a-goal&show_icons=true&theme=tokyonight) | ![GitHub账户信息统计](https://github-stats.ubrong.com/api?username=7-days-a-goal&show_icons=true&theme=tokyonight)
 
 ![GitHub账户最常用语言](https://github-stats.ubrong.com/api/top-langs/?username=7-days-a-goal&layout=compact&theme=tokyonight)
 
