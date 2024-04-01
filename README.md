@@ -74,6 +74,6 @@
 ![](https://img.shields.io/badge/-Redux-764abc?style=flat&logo=Redux&logoColor=FFFFFF)
 ![](https://img.shields.io/badge/-Mobx-e05e11?style=flat&logo=Mobx&logoColor=FFFFFF)
 ![](https://img.shields.io/badge/-Taro.js-38BDF8?style=flat&logo=Taro.js&logoColor=FFFFFF)
-![](https://img.shields.io/badge/-Webpack-1a6bac?style=flat&logo=Webpack&logoColor=FFFFFF)
+![](https://img.shields.io/badge/-Webpack-96a8ee?style=flat&logo=Webpack&logoColor=FFFFFF)
 ![](https://img.shields.io/badge/-Git-F14E32?style=flat&logo=Git&logoColor=FFFFFF)
 ![](https://img.shields.io/badge/-VisualStudioCode-007ec6?style=flat&logo=VisualStudioCode&logoColor=FFFFFF)
