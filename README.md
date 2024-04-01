@@ -69,6 +69,7 @@
 ![](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=HTML5&logoColor=FFFFFF)
 ![](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=CSS3&logoColor=FFFFFF)
 ![](https://img.shields.io/badge/-Less-1d365d?style=flat&logo=Less&logoColor=FFFFFF)
+![](https://img.shields.io/badge/-Yarn-7a5ecc?style=flat&logo=yarn&logoColor=FFFFFF)
 ![](https://img.shields.io/badge/-Yarn-2188b6?style=flat&logo=yarn&logoColor=FFFFFF)
 ![](https://img.shields.io/badge/-NPM-cb0000?style=flat&logo=NPM&logoColor=FFFFFF)
 ![](https://img.shields.io/badge/-Redux-764abc?style=flat&logo=Redux&logoColor=FFFFFF)
