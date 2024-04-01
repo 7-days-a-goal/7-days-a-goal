@@ -1,6 +1,6 @@
-
-
-![GitHub账户信息统计](https://github-stats.ubrong.com/api?username=7-days-a-goal&show_icons=true&theme=tokyonight) | ![GitHub账户信息统计](https://github-stats.ubrong.com/api?username=7-days-a-goal&show_icons=true&theme=tokyonight)
+Ryan
+--
+| ![图片描述](图片链接) | ![GitHub账户信息统计](https://github-stats.ubrong.com/api?username=7-days-a-goal&show_icons=true&theme=tokyonight) |
 
 ![GitHub账户最常用语言](https://github-stats.ubrong.com/api/top-langs/?username=7-days-a-goal&layout=compact&theme=tokyonight)
 
