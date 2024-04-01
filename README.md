@@ -72,7 +72,7 @@
 ![](https://img.shields.io/badge/-Redux-38BDF8?style=flat&logo=Redux&logoColor=FFFFFF)
 ![](https://img.shields.io/badge/-Mobx-38BDF8?style=flat&logo=Mobx&logoColor=FFFFFF)
 ![](https://img.shields.io/badge/-Taro.js-38BDF8?style=flat&logo=Taro.js&logoColor=FFFFFF)
-![](https://img.shields.io/badge/-JavaScript-38BDF8?style=flat&logo=JavaScript&logoColor=FFFFFF)
+![](https://img.shields.io/badge/-JavaScript-d1b514?style=flat&logo=JavaScript&logoColor=FFFFFF)
 ![](https://img.shields.io/badge/-Webpack-38BDF8?style=flat&logo=Webpack&logoColor=FFFFFF)
 ![](https://img.shields.io/badge/-Git-38BDF8?style=flat&logo=Git&logoColor=FFFFFF)
 ![](https://img.shields.io/badge/-AntDesign-38BDF8?style=flat&logo=AntDesign&logoColor=FFFFFF)
