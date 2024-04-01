@@ -75,4 +75,4 @@
 ![](https://img.shields.io/badge/-JavaScript-38BDF8?style=flat&logo=JavaScript&logoColor=FFFFFF)
 ![](https://img.shields.io/badge/-Webpack-38BDF8?style=flat&logo=Webpack&logoColor=FFFFFF)
 ![](https://img.shields.io/badge/-Git-38BDF8?style=flat&logo=Git&logoColor=FFFFFF)
-![](https://img.shields.io/badge/-Ant Design-38BDF8?style=flat&logo=antdesign&logoColor=FFFFFF)
+![](https://img.shields.io/badge/-AntDesign-38BDF8?style=flat&logo=AntDesign&logoColor=FFFFFF)
