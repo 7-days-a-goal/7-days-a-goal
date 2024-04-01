@@ -62,7 +62,7 @@
 
 ![](https://img.shields.io/badge/-React-0074a6?style=flat&logo=React&logoColor=FFFFFF)
 ![](https://img.shields.io/badge/-Next.js-171717?style=flat&logo=Next.js&logoColor=FFFFFF)
-![](https://img.shields.io/badge/-TaildwindCSS-38BDF8?style=flat&logo=taildwindcss&logoColor=FFFFFF)
+![](https://img.shields.io/badge/-TailwindCSS-38BDF8?style=flat&logo=tailwindcss&logoColor=FFFFFF)
 ![](https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=FFFFFF)
 ![](https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=FFFFFF)
 ![](https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=FFFFFF)
