@@ -69,4 +69,7 @@
 ![](https://img.shields.io/badge/-Less-38BDF8?style=flat&logo=Less&logoColor=FFFFFF)
 ![](https://img.shields.io/badge/-yarn-38BDF8?style=flat&logo=yarn&logoColor=FFFFFF)
 ![](https://img.shields.io/badge/-npm-38BDF8?style=flat&logo=npm&logoColor=FFFFFF)
-![](https://img.shields.io/badge/-TailwindCSS-38BDF8?style=flat&logo=tailwindcss&logoColor=FFFFFF)
+![](https://img.shields.io/badge/-taro-38BDF8?style=flat&logo=taro&logoColor=FFFFFF)
+![](https://img.shields.io/badge/-taro-38BDF8?style=flat&logo=taro&logoColor=FFFFFF)
+![](https://img.shields.io/badge/-taro-38BDF8?style=flat&logo=taro&logoColor=FFFFFF)
+![](https://img.shields.io/badge/-JavaScript-38BDF8?style=flat&logo=JavaScript&logoColor=FFFFFF)
