@@ -34,7 +34,7 @@
 
 --
  ![GitHub账户信息统计](https://github-stats.ubrong.com/api?username=7-days-a-goal&show_icons=true&theme=default) 
- <span > <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3" /> <img src="https://img.shields.io/badge/-JavaScript-oringe?style=flat-square&logo=javascript" /> </span>
+
 
 ![GitHub账户最常用语言](https://github-stats.ubrong.com/api/top-langs/?username=7-days-a-goal&layout=compact&theme=tokyonight)
 
