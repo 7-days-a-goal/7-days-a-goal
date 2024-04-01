@@ -29,8 +29,8 @@
 - 👋 Hi, I’m Ryan
 - 👀 I ’m interest in Java, server development, database, computer network, operating system, AI, etc.
 - 🌱 I’m currently learning database, AI,Chrome plug -in development.
-- 💞️ I’m looking to collaborate on article synchronization assistant.
-- 📫 How to reach me? Email: gmqiujun@gmail.com
+- 💞️ I’m looking for a remote job.
+- 📫 How to reach me? Email: h937064307@gmail.com
 
 --
  ![GitHub账户信息统计](https://github-stats.ubrong.com/api?username=7-days-a-goal&show_icons=true&theme=default) 
@@ -60,7 +60,7 @@
 
 [![Node.js](https://img.shields.io/badge/node.js-14.17.0-689f62?style=flat&logo=node.js)](https://nodejs.org/)
 
-![](https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=FFFFFF)
+![](https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=React&logoColor=23272f)
 ![](https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=FFFFFF)
 ![](https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=FFFFFF)
 ![](https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=FFFFFF)
