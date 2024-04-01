@@ -61,7 +61,7 @@
 [![Node.js](https://img.shields.io/badge/node.js-14.17.0-689f62?style=flat&logo=node.js)](https://nodejs.org/)
 
 ![](https://img.shields.io/badge/-React-0074a6?style=flat-square&logo=React&logoColor=FFFFFF)
-![](https://img.shields.io/badge/-Next.js-0074a6?style=flat-square&logo=Next.js&logoColor=FFFFFF)
+![](https://img.shields.io/badge/-Next.js-171717?style=flat-square&logo=Next.js&logoColor=FFFFFF)
 ![](https://img.shields.io/badge/-React-149eca?style=flat-square&logo=React&logoColor=FFFFFF)
 ![](https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=FFFFFF)
 ![](https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=FFFFFF)
