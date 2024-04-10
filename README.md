@@ -31,6 +31,7 @@
 - 👋 Hi, I’m Ryan
 - 💞️ I’m looking for a remote job.
 - 📫 How to reach me? Email: h937064307@gmail.com
+
 ![GitHub账户信息统计](https://github-stats.ubrong.com/api?username=7-days-a-goal&show_icons=true&theme=default) 
 ![GitHub账户最常用语言](https://github-stats.ubrong.com/api/top-langs/?username=7-days-a-goal&layout=compact&theme=tokyonight)
 ![GitHub仓库信息卡片](https://github-stats.ubrong.com/api/pin/?username=7-days-a-goal&repo=tst-design&theme=dark) ![GitHub仓库信息卡片](https://github-stats.ubrong.com/api/pin/?username=7-days-a-goal&repo=nextjs-dashboard&theme=dark)
