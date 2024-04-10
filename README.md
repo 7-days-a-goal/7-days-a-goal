@@ -32,14 +32,11 @@
 - 💞️ I’m looking for a remote job.
 - 📫 How to reach me? Email: h937064307@gmail.com
 
- ![GitHub账户信息统计](https://github-stats.ubrong.com/api?username=7-days-a-goal&show_icons=true&theme=default) 
+![GitHub账户最常用语言](https://github-stats.ubrong.com/api/top-langs/?username=7-days-a-goal&layout=compact&theme=tokyonight) ![GitHub账户信息统计](https://github-stats.ubrong.com/api?username=7-days-a-goal&show_icons=true&theme=default) 
+
+![GitHub仓库信息卡片](https://github-stats.ubrong.com/api/pin/?username=7-days-a-goal&repo=tst-design&theme=dark) ![GitHub仓库信息卡片](https://github-stats.ubrong.com/api/pin/?username=7-days-a-goal&repo=nextjs-dashboard&theme=dark)
 
 
-![GitHub账户最常用语言](https://github-stats.ubrong.com/api/top-langs/?username=7-days-a-goal&layout=compact&theme=tokyonight)
-
-![GitHub仓库信息卡片](https://github-stats.ubrong.com/api/pin/?username=7-days-a-goal&repo=tst-design&theme=dark)
-
-![GitHub仓库信息卡片](https://github-stats.ubrong.com/api/pin/?username=7-days-a-goal&repo=nextjs-dashboard&theme=dark)
 
 ![](https://img.shields.io/badge/-React-0074a6?style=flat&logo=React&logoColor=FFFFFF)
 ![](https://img.shields.io/badge/-Next.js-171717?style=flat&logo=Next.js&logoColor=FFFFFF)
