@@ -32,7 +32,6 @@
 - 💞️ I’m looking for a remote job.
 - 📫 How to reach me? Email: h937064307@gmail.com
 
---
  ![GitHub账户信息统计](https://github-stats.ubrong.com/api?username=7-days-a-goal&show_icons=true&theme=default) 
 
 
