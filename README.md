@@ -27,8 +27,8 @@
 
 <!-- 个人简介 -->
 - 👋 Hi, I’m Ryan
-- 👀 I ’m interest in Java, server development, database, computer network, operating system, AI, etc.
-- 🌱 I’m currently learning database, AI,Chrome plug -in development.
+//- 👀 I ’m interest in Java, server development, database, computer network, operating system, AI, etc.
+//- 🌱 I’m currently learning database, AI,Chrome plug -in development.
 - 💞️ I’m looking for a remote job.
 - 📫 How to reach me? Email: h937064307@gmail.com
 
